@@ -78,9 +78,19 @@ const saaif = {
     funFact: "I love learning new tech and solving complex problems!"
 };
 ```
-<h3 align="left">Let's Connect! 🤝</h3> <div align="left"> <a href="https://www.linkedin.com/in/saaifshuvo/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> <a href="https://www.youtube.com/@saaifshuvo" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /> </a> <a href="https://www.instagram.com/saaif_shuvo/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
+<h3 align="left">Let's Connect! 🤝</h3> <div align="left">
+  <a href="https://www.youtube.com/@saaifshuvo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/saaif_shuvo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/saaifshuvo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+ <img align="right" src="https://github.com/saaif44/saaif44/raw/main/pendulum.gif" width="150" height="150" " />
 
-  <img align="right" src="https://github.com/saaif44/saaif44/raw/main/pendulum.gif" width="150" height="150" />
+ 
 
 </div>
 

@@ -9,13 +9,6 @@
 
 ###
 
-
-<img align="left" src="https://github.com/saaif44/saaif44/raw/main/pendulum.gif" width="150" height="150" />
-
-
-<lottie-player src="https://github.com/saaif44/saaif44/blob/main/pendulum.json" background="transparent" speed="1" style="width: 150px; height: 150px;" loop autoplay align="left">
-</lottie-player>
-
 <img align="right" height="150" src="https://github.com/saaif44/saaif44/blob/main/kitty-transparent.gif"  />
 
 ###
@@ -135,7 +128,12 @@ const saaif = {
     funFact: "I love learning new tech and solving complex problems!"
 };
 ```
-<h3 align="left">Let's Connect! 🤝</h3> <div align="left"> <a href="https://www.linkedin.com/in/saaifshuvo/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> <a href="https://www.youtube.com/@saaifshuvo" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /> </a> <a href="https://www.instagram.com/saaif_shuvo/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a> </div>
+<h3 align="left">Let's Connect! 🤝</h3> <div align="left"> <a href="https://www.linkedin.com/in/saaifshuvo/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> <a href="https://www.youtube.com/@saaifshuvo" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /> </a> <a href="https://www.instagram.com/saaif_shuvo/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
+
+  <img align="right" src="https://github.com/saaif44/saaif44/raw/main/pendulum.gif" width="150" height="150" />
+
+</div>
+
 <h3 align="left">Inspiring Words 📝</h3>
 "The future belongs to those who believe in the beauty of their dreams."
 – Eleanor Roosevelt

@@ -8,6 +8,8 @@
 </div>
 
 ###
+<lottie-player src="https://github.com/saaif44/saaif44/blob/main/pendulum.json" background="transparent" speed="1" style="width: 150px; height: 150px;" loop autoplay align="left">
+</lottie-player>
 
 <img align="right" height="150" src="https://github.com/saaif44/saaif44/blob/main/kitty-transparent.gif"  />
 

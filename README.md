@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is saaif and I'm a Full Stack Devs</h2>
+<h2 align="left">Hi 👋! My name is Saaif and I'm a Full Stack Developer</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src=""  />
 
 ###
 
@@ -98,43 +98,44 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@saaifshuvo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/saaif_shuvo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<h3 align="left">Here's a little bit about me... 📚</h3>
 
-###
+```javascript
+const saaif = {
+    role: "Full Stack Developer",
+    code: ["Javascript", "Python", "Java", "PHP", "TypeScript"],
+    askMeAbout: ["web dev", "tech", "AI", "machine learning", "data science", "software engineering"],
+    interests: ["open-source", "gaming", "music", "photography", "fitness"],
+    technologies: {
+        Frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS", "Bootstrap"],
+        Backend: ["Node.js", "Express", "Django", "Laravel"],
+        Databases: ["MySQL", "MongoDB", "PostgreSQL"],
+        DevOps: ["Docker", "AWS", "Azure", "CI/CD"],
+        Tools: ["Git", "GitHub", "VSCode", "Postman"],
+        Misc: ["Photoshop", "Illustrator", "After Effects"]
+    },
+    funFact: "I love learning new tech and solving complex problems!"
+};
+```
+<h3 align="left">Let's Connect! 🤝</h3> <div align="left"> <a href="https://www.linkedin.com/in/saaif44/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> <a href="https://www.youtube.com/@saaifshuvo" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /> </a> <a href="https://www.instagram.com/saaif_shuvo/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a> </div>
+<h3 align="left">Inspiring Words 📝</h3>
+"The future belongs to those who believe in the beauty of their dreams."
+– Eleanor Roosevelt
+"Success is not final, failure is not fatal: It is the courage to continue that counts."
+– Winston Churchill
+"The only way to do great work is to love what you do."
+– Steve Jobs
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaif44/saaif44/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaif44/saaif44/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saaif44/saaif44/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaif44/saaif44/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaif44/saaif44/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saaif44/saaif44/output/github-contribution-grid-snake.svg"> </picture>
+“Keep pushing boundaries and never stop learning!”

@@ -85,7 +85,7 @@ const saaif = {
   <a href="https://www.instagram.com/saaif_shuvo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/saaifshuvo/" target="_blank">
+  <a href="https://www.linkedin.com/in/saaif-shuvo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
  <img align="right" src="https://github.com/saaif44/saaif44/raw/main/pendulum.gif" width="150" height="150" " />
